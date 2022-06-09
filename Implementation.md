@@ -18,6 +18,9 @@
 
 ## Arcitecture
 
+- The Following is the architecture of the setup
+
+![alt text](https://github.com/Nhaila-Abdessamad/Two-VPCs-VPN-Connectivity/blob/main/FIGs/Archi.png)
 
 
 
