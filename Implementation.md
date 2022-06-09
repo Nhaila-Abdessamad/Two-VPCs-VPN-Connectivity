@@ -11,7 +11,7 @@
 * [architecture](#architecture)
 * [architecture](#architecture)
 * [architecture](#architecture)
-* [architecture](#architecture)
+* [Resources](#resources)
 
 
 
