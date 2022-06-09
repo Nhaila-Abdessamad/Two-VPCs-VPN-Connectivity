@@ -7,10 +7,11 @@
 ## Contents
 
 * [Architecture](#architecture)
-* [architecture](#architecture)
-* [architecture](#architecture)
-* [architecture](#architecture)
-* [architecture](#architecture)
+* [Provisioning VPC 1](#provisioning-vpc-1)
+* [Provisioning VPC 2](#provisioning-vpc-2)
+* [Creating and Configuring IPsec Tunnels](#creating-and-configuring-ipsec-tunnels)
+* [Setting up static routes within our VPCs](#setting-up-static-routes-within-our-vpcs)
+* [ICMP ping over IPsec VPN Tunnel](#icmp-ping-over-ipsec-vpn-tunnel)
 * [Resources](#resources)
 
 
@@ -21,6 +22,19 @@
 - The Following is the architecture of the setup
 
 ![alt text](https://github.com/Nhaila-Abdessamad/Two-VPCs-VPN-Connectivity/blob/main/FIGs/Archi.png)
+
+## Provisioning VPC 1
+
+
+
+## Provisioning VPC 2
+
+
+## Setting up static routes within our VPCs
+
+
+
+## ICMP ping over IPsec VPN Tunnel
 
 
 
